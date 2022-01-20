@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "xyz.patyhank.middleclickfix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinHandledScreen"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
